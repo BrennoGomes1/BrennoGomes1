@@ -22,7 +22,7 @@ Sou um estudante de tecnologia focado em Back-End, atualmente cursando Ciência 
 
 ✉️ brennosantos877@gmail.com  
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" alt="LinkedIn" />
-[LinkedIn](www.linkedin.com/in/brenno-santos1605)
+[LinkedIn](https://br.linkedin.com/in/brenno-santos1605)
 
 <!-- COBRINHA ANIMADA -->
 <p align="center">
