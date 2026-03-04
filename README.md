@@ -1,16 +1,34 @@
-## Hi there 👋
+<h1 align="center">Fala aí! Eu sou o Brenno 👋</h1>
 
-<!--
-**BrennoGomes1/BrennoGomes1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+Sou um estudante dedicado à tecnologia, focado em Back-End e Cibersegurança.
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Atualmente estou estudando:
+
+![HTML5](https://img.shields.io/badge/HTML5-orange)
+![CSS3](https://img.shields.io/badge/CSS3-blue)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow)
+![Node.js](https://img.shields.io/badge/Node.js-green)
+![Python](https://img.shields.io/badge/Python-blue)
+
+---
+
+## 💡 O que você vai encontrar aqui?
+
+- ✅ Projetos práticos que estou desenvolvendo  
+- ✅ Desafios e exercícios dos meus estudos  
+- ✅ Coisas simples agora, mas grandes no futuro 😎  
+
+---
+
+## 📫 Me chama aí:
+
+📧 brennosantos877@gmail.com
+
+<!-- COBRINHA ANIMADA -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
+</p>
