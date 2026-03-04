@@ -5,11 +5,10 @@
 </p>
 Sou um estudante de tecnologia focado em Back-End, atualmente cursando Ciência da Computação na FIAP e explorando diferentes áreas enquanto evoluo na construção de APIs e sistemas eficientes.
 
----
 
 ## 🚀 Atualmente estou estudando:
 
-<p align="center"> <img src="https://skillicons.dev/icons?i=python,nodejs,js" /> </p>
+<p align="center"> <img src="https://skillicons.dev/icons?i=python,nodejs,js,express" /> </p>
 
 ## 💡 O que você vai encontrar aqui?
 
