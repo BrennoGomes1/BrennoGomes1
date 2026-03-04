@@ -3,19 +3,13 @@
 <p align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px">
 </p>
-Sou um estudante de tecnologia focado em Back-End
+Sou um estudante de tecnologia focado em Back-End, atualmente cursando Ciência da Computação na FIAP e explorando diferentes áreas enquanto evoluo na construção de APIs e sistemas eficientes.
 
 ---
 
 ## 🚀 Atualmente estou estudando:
 
-![HTML5](https://img.shields.io/badge/HTML5-orange)
-![CSS3](https://img.shields.io/badge/CSS3-blue)
-![Python](https://img.shields.io/badge/Python-blue)
-![Node.js](https://img.shields.io/badge/Node.js-green)
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow)
-
----
+<p align="center"> <img src="https://skillicons.dev/icons?i=python,nodejs,js" /> </p>
 
 ## 💡 O que você vai encontrar aqui?
 
