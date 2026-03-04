@@ -1,8 +1,9 @@
-<h1 align="center">Fala aí! Eu sou o Brenno 👋</h1>
+<h1 align="center">Fala aí! Eu sou o Brenno</h1>
 
 <p align="center">
-Sou um estudante dedicado à tecnologia, focado em Back-End e Cibersegurança.
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px">
 </p>
+
 
 ---
 
