@@ -8,7 +8,7 @@ Sou um estudante de tecnologia focado em Back-End, atualmente cursando Ciência 
 
 ## 🚀 Atualmente estou estudando:
 
-<p align="center"> <img src="https://skillicons.dev/icons?i=python,cs,dotnet,postgres" /> </p>
+<p align="center"> <img src="https://skillicons.dev/icons?i=python,cs,dotnet,sqlite" /> </p>
 
 ## 💡 O que você vai encontrar aqui?
 
